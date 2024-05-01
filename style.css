@@ -1,0 +1,9 @@
+//WordPress Theme Customization:Let's say you want to customize the header of your WordPress theme by adding a custom background color.Create a child theme if you haven't already.
+
+/* style.css in child theme */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+//This code will change the background color of the header to light gray (#f0f0f0) and add some padding.
